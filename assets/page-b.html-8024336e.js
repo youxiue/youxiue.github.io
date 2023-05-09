@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,Q as e,t as c}from"./framework-e921cdd2.js";const o={},r=e("h1",{id:"页面b",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#页面b","aria-hidden":"true"},"#"),c(" 页面B")],-1),n=e("p",null,"page-b.md文件,不是readme.md",-1),_=[r,n];function d(i,l){return a(),s("div",null,_)}const m=t(o,[["render",d],["__file","page-b.html.vue"]]);export{m as default};

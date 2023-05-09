@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as n,Q as e,t as r}from"./framework-e921cdd2.js";const a={},s=e("h1",{id:"group3",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#group3","aria-hidden":"true"},"#"),r(" group3")],-1),c=e("p",null,"分组3 包含one， two",-1),_=[s,c];function d(i,l){return o(),n("div",null,_)}const u=t(a,[["render",d],["__file","index.html.vue"]]);export{u as default};

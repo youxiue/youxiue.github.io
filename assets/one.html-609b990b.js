@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-01bb6796","path":"/group3/one.html","title":"one","lang":"zh-CN","frontmatter":{"title":"one","tags":["search","机舱里的钟声"]},"headers":[],"git":{"updatedTime":1683622140000,"contributors":[{"name":"youxiue","email":"xfbliuli@qq.com","commits":1}]},"filePathRelative":"group3/one.md"}');export{e as data};

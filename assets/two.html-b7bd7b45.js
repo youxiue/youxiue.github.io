@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-189e8fe2","path":"/group3/two.html","title":"two","lang":"zh-CN","frontmatter":{"title":"two","tags":["search","youxiue","如何选择自己要做的事情","今日值得读"]},"headers":[],"git":{"updatedTime":1683622140000,"contributors":[{"name":"youxiue","email":"xfbliuli@qq.com","commits":1}]},"filePathRelative":"group3/two.md"}');export{t as data};
